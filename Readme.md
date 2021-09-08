@@ -9,7 +9,7 @@
 | Día/Hora    |Lunes   | Martes  |Miercoles| Jueves | Viernes |
 | :-------:   |:------:|:------: |:-----:  | :-----:| :-----: |
 | 8:00 - 9:00 |        | :x:     |         | :x:    |         |
-| 9:00 - 10:00|        | :x:     |         | :x:    |         |
+| 9:00 - 10:00|        | :x:     |         | :x:    |    :x:  |
 
 :calendar: Fecha: 
 >~~Lunes :seven: de Agosto :two::zero::two::one:~~ 
